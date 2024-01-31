@@ -15,3 +15,7 @@ This project relies on the following dependencies:
    - Start a game on Geoguessr.
    - Set the game window to full-screen.
    - Adjust the map window size to medium.
+
+## Showcase video (myself vs the bot)
+
+-https://www.youtube.com/watch?v=YKuG_BVgQZI
