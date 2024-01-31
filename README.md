@@ -13,5 +13,5 @@ This project relies on the following dependencies:
 
 2. **Geoguessr Setup:**
    - Start a game on Geoguessr.
-   - Set the game window to full screen.
-   - Adjust the map window size to medium for optimal performance.
+   - Set the game window to full-screen.
+   - Adjust the map window size to medium.
