@@ -12,7 +12,7 @@ This project relies on the following dependencies:
 1. **OpenAI API Key:** Please place your own OpenAI API key into a file named `key.txt`.
 
 2. **Geoguessr Setup:**
-   - Start a game on Geoguessr.
+   - Start a game of Geoguessr.
    - Set the game window to full-screen.
    - Adjust the map window size to medium.
 
