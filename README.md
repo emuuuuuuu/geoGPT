@@ -6,6 +6,7 @@ This project relies on the following dependencies:
 
 - OpenAI
 - PyAutoGUI
+- python-dotenv
 
 ## Setup Instructions
 
