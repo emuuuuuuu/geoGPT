@@ -19,4 +19,4 @@ This project relies on the following dependencies:
 
 ## Showcase video (myself vs the bot)
 
--https://www.youtube.com/watch?v=YKuG_BVgQZI
+[![Showcase video](https://img.youtube.com/vi/YKuG_BVgQZI/0.jpg)](https://www.youtube.com/watch?v=YKuG_BVgQZI)
