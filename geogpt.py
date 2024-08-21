@@ -30,7 +30,7 @@ def call_gpt_vision(prompt):
         ]
     }
     response = client.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-4o",
         messages=[message]
     )
     return response.choices[0].message.content
@@ -41,7 +41,7 @@ def call_gpt_4(prompt):
         "content": [{"type": "text", "text": prompt}]
     }
     response = client.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-4o",
         messages=[message]
     )
     return response.choices[0].message.content
